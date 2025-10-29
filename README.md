@@ -5,8 +5,9 @@
 ## Tech Stack 
 - Frontend: HTML, CSS, JavaScript 
 - Backend: Node.js (Express) 
-- Database: MySQL ## Setup Instructions 
+- Database: MySQL
 
+ ## Setup Instructions 
 ### Backend Setup 
 1. Clone the repo 
 2. Navigate to backend folder 
